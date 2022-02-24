@@ -23,7 +23,6 @@ Hobbies at the moment:
 - Social Media (15m + Network)
 - Little Coding Priojects
 - Politics 
-- Network Of 15 Million Followers (Instagram)
 
 Previous Coding Skills:
 
