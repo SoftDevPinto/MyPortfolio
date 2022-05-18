@@ -20,7 +20,7 @@ Email - chris.pinto1234@gmail.com
 Hobbies at the moment:
 - Practice Coding
 - Gaming
-- Social Media (15m + Network)
+- Social Media (3m + Network)
 - Little Coding Priojects
 - Politics 
 
