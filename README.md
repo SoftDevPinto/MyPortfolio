@@ -3,9 +3,7 @@ Collection of projects completed while i studied towards the Software Developmen
 
 A little about me:
  
- My names Chris Pinto, im a 24 year old beginner developer looking to learn new and valuable skills with keyins software development program.
-With a tech passion my whole life i know this is what i was destined to do. Previously i have done Heavy Equipment and i knew all along it wasnt the right path
-for me. With a back injury at 24 years old i was left with two options, go back to heavy equipment and risk my back or pursue a new career and go back to school all over again. As scary as it was i choose the option of schooling and with that i had to move back to St. John's. 
+ My name is Chris Pinto,  I'm a 24-year-old beginner developer looking to learn new and valuable skills with Keyin's software development program. With a tech passion my whole life I know this is what I was destined to do. Previously, I have done Heavy Equipment and I knew it wasn't the right path for me all along. With a back injury at 24 years old, I was left with two options, go back to heavy equipment and risk my back or pursue a new career and go back to school. 
 
 I'm Currently Working on a Website
 
